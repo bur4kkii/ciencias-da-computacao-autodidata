@@ -8,7 +8,7 @@ Como base estou seguindo a programação forneceida pela Universidade Livre Bras
 Dividido em 7 períodos, o curso está planejado da seguinte forma:
 
 **1ª Etapa**
-- Circuitos Digitais
+- [[Circuitos Digitais]]
 - Matemática Discreta
 - Linguagens de Programação
 - Introdução à Ciência da Computação com Python I
